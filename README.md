@@ -2,7 +2,6 @@
 
 Això es **negreta**
 
-Lista:
 1. Apartat 1
 2. Apartat 2
 
