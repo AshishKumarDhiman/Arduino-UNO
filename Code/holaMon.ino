@@ -1,5 +1,5 @@
 //holaMon.ino
-//primer exercici
+//primer exercici curs 2019/20
 
 void setup()
 {
